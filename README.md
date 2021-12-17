@@ -1,16 +1,11 @@
-# noted
+# Noted
 
-A new Flutter project.
+A new Flutter application to Take Notes and share them to any other text-readable platform.The backend uses SQL and it also has an extraordinary UI.
 
-## Getting Started
+**Home Page and Create Note Screen:**
+<br><br>![HomeScreen](https://user-images.githubusercontent.com/59509542/146569764-3e3b7752-14db-414e-b209-a5ed0f3b7c61.JPG)      ![Write a note](https://user-images.githubusercontent.com/59509542/146570754-4a6029df-6b8f-4c75-b2fe-59bbacfe3436.JPG)
+<br><br>
 
-This project is a starting point for a Flutter application.
+**Save and View / Edit Notes Screen:**
+<br><br>![save your note](https://user-images.githubusercontent.com/59509542/146570830-3358ae4c-6cfb-4be8-ac9f-a783352a5158.JPG)  ![ViewNoteScreen](https://user-images.githubusercontent.com/59509542/146570933-9addd0c9-255a-4393-be27-3c28d9aaa1db.JPG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
