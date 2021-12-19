@@ -1,6 +1,6 @@
 # Noted
 
-A new Flutter application to Take Notes and share them to any other text-readable platform.The backend uses SQL. The application also has an extraordinary UI.
+A new Flutter application to take Notes and share them to any other text-readable platform.The backend uses SQL. The application also has an extraordinary UI.
 
 **Home Page and Create Note Screen:**
 <br><br>![HomeScreen](https://user-images.githubusercontent.com/59509542/146569764-3e3b7752-14db-414e-b209-a5ed0f3b7c61.JPG)      ![Write a note](https://user-images.githubusercontent.com/59509542/146570754-4a6029df-6b8f-4c75-b2fe-59bbacfe3436.JPG)
